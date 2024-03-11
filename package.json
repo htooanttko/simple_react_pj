@@ -1,7 +1,7 @@
 {
   "name": "react_blog",
   "version": "0.1.0",
-  "homepage": "https://htooanttko.github.io/react_test",
+  "homepage": "https://htooanttko.github.io/simple_react_pj",
   "private": true,
   "dependencies": {
     "date-fns": "^2.30.0",
